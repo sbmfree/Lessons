@@ -1,0 +1,20 @@
+[
+  {
+    "id": "A-UUID-string",
+    "title": "Swift Basics",
+    "exercises": [
+      {
+        "id": "Another-UUID-string",
+        "prompt": "What is Swift?",
+        "options": ["A bird", "A programming language", "A dance move"],
+        "correctOptionIndex": 1
+      },
+      {
+        "id": "Another-UUID-string",
+        "prompt": "Which keyword declares a constant?",
+        "options": ["let", "var", "const"],
+        "correctOptionIndex": 0
+      }
+    ]
+  }
+]
